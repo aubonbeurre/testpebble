@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "aubonbeurre@gmail.com",
+    "longName": "foo",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "foo",
+    "uuid": "6789ada0-e1a4-4c8d-a592-3647e1b10850",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
